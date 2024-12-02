@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DAM_Sem11_Project</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_notas">title_notas</string>
+    <string name="title_favoritas">title_favoritas</string>
+    <string name="title_user_profile">title_user_profile</string>
+</resources>
